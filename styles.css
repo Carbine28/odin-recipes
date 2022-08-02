@@ -1,16 +1,19 @@
 
 body {
     background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 
 .header {
     font-size: 34px;
-    font-family: 'Times New Roman', Times, serif;
+    
     text-align: center;
     background-color: beige;
 }
-.odin {
+
+
+img {
     display: block;
     margin-left: auto;
     margin-right: auto;
