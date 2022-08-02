@@ -1,0 +1,29 @@
+
+body {
+    background-color: beige;
+}
+
+
+.header {
+    font-size: 34px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: beige;
+}
+.odin {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+}
+
+.subheader {
+    font-size: 38px;
+    
+}
+
+ul {
+    font-size: 24px;
+    
+}
